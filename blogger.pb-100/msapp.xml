@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="https://dl.dropboxusercontent.com/u/3137014/blogger.pb-100/70x70.png"/>
+      <square150x150logo src="https://dl.dropboxusercontent.com/u/3137014/blogger.pb-100/150x150.png"/>
+      <wide310x150logo src="https://dl.dropboxusercontent.com/u/3137014/blogger.pb-100/310x150.png"/>
+      <square310x310logo src="https://dl.dropboxusercontent.com/u/3137014/blogger.pb-100/310x310.png"/>
+      <TileColor>#010F3D</TileColor>
+    </tile>
+    <notification>
+      <polling-uri  src="https://script.google.com/macros/s/AKfycbzSTy1_KDLNPMF28Kag5MEM2OPR9CUd1dX_YZ0yu03klU0fc_Q/exec?tile=1"/>
+      <polling-uri2 src="https://script.google.com/macros/s/AKfycbzSTy1_KDLNPMF28Kag5MEM2OPR9CUd1dX_YZ0yu03klU0fc_Q/exec?tile=2"/>
+      <polling-uri3 src="https://script.google.com/macros/s/AKfycbzSTy1_KDLNPMF28Kag5MEM2OPR9CUd1dX_YZ0yu03klU0fc_Q/exec?tile=3"/>
+      <polling-uri4 src="https://script.google.com/macros/s/AKfycbzSTy1_KDLNPMF28Kag5MEM2OPR9CUd1dX_YZ0yu03klU0fc_Q/exec?tile=4"/>
+      <polling-uri5 src="https://script.google.com/macros/s/AKfycbzSTy1_KDLNPMF28Kag5MEM2OPR9CUd1dX_YZ0yu03klU0fc_Q/exec?tile=5"/>
+      <frequency>360</frequency>
+      <cycle>1</cycle>
+    </notification>
+  </msapplication>
+</browserconfig>
