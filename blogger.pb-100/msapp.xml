@@ -2,10 +2,10 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="https://dl.dropboxusercontent.com/u/3137014/blogger.pb-100/70x70.png"/>
-      <square150x150logo src="https://dl.dropboxusercontent.com/u/3137014/blogger.pb-100/150x150.png"/>
-      <wide310x150logo src="https://dl.dropboxusercontent.com/u/3137014/blogger.pb-100/310x150.png"/>
-      <square310x310logo src="https://dl.dropboxusercontent.com/u/3137014/blogger.pb-100/310x310.png"/>
+      <square70x70logo src="https://pbrocky.github.io/blogger.pb-100/70x70.png"/>
+      <square150x150logo src="https://pbrocky.github.io/blogger.pb-100/150x150.png"/>
+      <wide310x150logo src="https://pbrocky.github.io/blogger.pb-100/310x150.png"/>
+      <square310x310logo src="https://pbrocky.github.io/blogger.pb-100/310x310.png"/>
       <TileColor>#010F3D</TileColor>
     </tile>
     <notification>
